@@ -49,7 +49,7 @@ public:
 	int attack() {
 		int damage = attackPower;
 		if (isAttackBuffed == true) {
-			damage = attackPower + 10;
+			damage += 10;
 			isAttackBuffed = false;
 		}
 		crit = 1 + rand() % 100;
