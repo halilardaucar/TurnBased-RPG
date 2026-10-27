@@ -15,7 +15,7 @@ public:
 		armor = 15;
 		numOfHealthPotions = 3;
 		numOfAttackPotions = 3;
-		dodgeChance = 90;
+		dodgeChance = 10;
 		isAttackBuffed = false;
 	}
 	void getAttacked(int damage, bool isMagic = false) {

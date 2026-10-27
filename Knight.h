@@ -10,7 +10,7 @@ public:
 		isDeath = false;
 		maxhealth = 120;
 		health = 120;
-		attackPower = 15;
+		attackPower = 20;
 		criticChance = 15;
 		armor = 40;
 		numOfHealthPotions = 3;
