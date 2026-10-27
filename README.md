@@ -8,7 +8,7 @@ Current Features
 * State/Flag Management: Created an instant "Attack Potion" logic that buffs only the next consecutive attack when used.
 
 Planned Features
-* Integration of Mage and Tank classes.
+* Integration of Mage, Assassin and Bandit classes.
 * Implementation of Enemy entities and the core combat Game Loop.
 * Map-based progression and basic Skill Tree integration.
 
